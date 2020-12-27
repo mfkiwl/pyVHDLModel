@@ -1,0 +1,10 @@
+pyVHDLModel.VHDLModel
+=========================
+
+.. automodule:: pyVHDLModel.VHDLModel
+
+
+.. currentmodule:: pyVHDLModel.VHDLModel
+
+
+.. #-----------------------------------
